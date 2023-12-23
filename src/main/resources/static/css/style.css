@@ -1,0 +1,61 @@
+.navegacao{
+    font-size: 1.3em;
+    color: rgba(255, 140, 0);
+    background: linear-gradient(0, rgb(48, 48, 48), rgb(120, 120, 120));
+    padding: 0;
+    margin: 0;
+}
+
+.logo{
+    color: rgba(255, 140, 0);
+}
+
+.carouser-titulo{
+    font-size: 2em;
+    background-color: rgba(255, 140, 0, 0.603);
+    color: black
+}
+
+.carousel-descricao{
+    width: auto;
+    font-size: 1.5em;
+    background-color: rgba(255, 140, 0, 0.603);
+    color: black
+}
+
+.cabecalho-tabela{
+    width: 100%;
+}
+
+.reserva{
+    display: flex;
+    margin-top: 20px;
+}
+
+.imagem-reservas{
+    margin-right: 20px;
+}
+
+.formulario{
+    width: 60%;
+}
+
+.linha:hover{
+    background-color: blue;
+    color: white;
+}
+
+.coluna-nome, .coluna-cpf, .coluna-data, .coluna-mesa{
+    cursor: pointer;
+}
+
+.botao{
+    margin: 1em;
+}
+
+.botoes{
+    display: flex;
+    justify-content: center;
+}
+
+
